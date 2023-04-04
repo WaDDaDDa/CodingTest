@@ -17,20 +17,13 @@
 //
 //    num1이 10, num2가 5이므로 10을 5로 나눈 나머지 0을 return 합니다.
 
-
-
-
-
-
-
-
 #include <stdio.h>
 #include <stdbool.h>
 #include <stdlib.h>
 
 int solution(int num1, int num2) 
 {
-    int answer = -1;
+    int answer = num1 % num2;
     return answer;
 }
 
@@ -39,5 +32,5 @@ int main()
 {
     int Ex1 = solution(3, 2);
     int Ex2 = solution(10, 5);
-
+    int a = 0;
 }
