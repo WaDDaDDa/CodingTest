@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004_몫 구하기", "004_�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "005_나이출력", "005_나이출력\005_나이출력.vcxproj", "{BA5BB381-6DC8-4EF6-A642-001D3A106F58}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "006_두수의 합", "006_두수의 합\006_두수의 합.vcxproj", "{727415F8-FC87-49F0-8EE0-981F3A7E5F2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -73,6 +75,14 @@ Global
 		{BA5BB381-6DC8-4EF6-A642-001D3A106F58}.Release|x64.Build.0 = Release|x64
 		{BA5BB381-6DC8-4EF6-A642-001D3A106F58}.Release|x86.ActiveCfg = Release|Win32
 		{BA5BB381-6DC8-4EF6-A642-001D3A106F58}.Release|x86.Build.0 = Release|Win32
+		{727415F8-FC87-49F0-8EE0-981F3A7E5F2E}.Debug|x64.ActiveCfg = Debug|x64
+		{727415F8-FC87-49F0-8EE0-981F3A7E5F2E}.Debug|x64.Build.0 = Debug|x64
+		{727415F8-FC87-49F0-8EE0-981F3A7E5F2E}.Debug|x86.ActiveCfg = Debug|Win32
+		{727415F8-FC87-49F0-8EE0-981F3A7E5F2E}.Debug|x86.Build.0 = Debug|Win32
+		{727415F8-FC87-49F0-8EE0-981F3A7E5F2E}.Release|x64.ActiveCfg = Release|x64
+		{727415F8-FC87-49F0-8EE0-981F3A7E5F2E}.Release|x64.Build.0 = Release|x64
+		{727415F8-FC87-49F0-8EE0-981F3A7E5F2E}.Release|x86.ActiveCfg = Release|Win32
+		{727415F8-FC87-49F0-8EE0-981F3A7E5F2E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -84,6 +94,7 @@ Global
 		{80E385F7-583B-4807-BE9D-831DD6C49554} = {1DEB7987-B027-480C-ABD1-A45CF5FD5A31}
 		{1F0EFAC0-7756-496E-B36C-A40475B3BF8E} = {1DEB7987-B027-480C-ABD1-A45CF5FD5A31}
 		{BA5BB381-6DC8-4EF6-A642-001D3A106F58} = {1DEB7987-B027-480C-ABD1-A45CF5FD5A31}
+		{727415F8-FC87-49F0-8EE0-981F3A7E5F2E} = {1DEB7987-B027-480C-ABD1-A45CF5FD5A31}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CD07F017-E23D-4476-8E33-5B3DC5DB353E}
