@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "000_나머지구하기", "000_나머지구하기\000_나머지구하기.vcxproj", "{7146B627-4E31-4E7E-B691-3F3B6E4B8DD5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "001_숫자비교하기", "001_숫자비교하기\001_숫자비교하기.vcxproj", "{23AD2CF5-A293-49C9-9229-F755B8AD6731}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{7146B627-4E31-4E7E-B691-3F3B6E4B8DD5}.Release|x64.Build.0 = Release|x64
 		{7146B627-4E31-4E7E-B691-3F3B6E4B8DD5}.Release|x86.ActiveCfg = Release|Win32
 		{7146B627-4E31-4E7E-B691-3F3B6E4B8DD5}.Release|x86.Build.0 = Release|Win32
+		{23AD2CF5-A293-49C9-9229-F755B8AD6731}.Debug|x64.ActiveCfg = Debug|x64
+		{23AD2CF5-A293-49C9-9229-F755B8AD6731}.Debug|x64.Build.0 = Debug|x64
+		{23AD2CF5-A293-49C9-9229-F755B8AD6731}.Debug|x86.ActiveCfg = Debug|Win32
+		{23AD2CF5-A293-49C9-9229-F755B8AD6731}.Debug|x86.Build.0 = Debug|Win32
+		{23AD2CF5-A293-49C9-9229-F755B8AD6731}.Release|x64.ActiveCfg = Release|x64
+		{23AD2CF5-A293-49C9-9229-F755B8AD6731}.Release|x64.Build.0 = Release|x64
+		{23AD2CF5-A293-49C9-9229-F755B8AD6731}.Release|x86.ActiveCfg = Release|Win32
+		{23AD2CF5-A293-49C9-9229-F755B8AD6731}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
