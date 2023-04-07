@@ -26,12 +26,38 @@ int* solution(const char* strlist[], size_t strlist_len)
 {
     // return 값은 malloc 등 동적 할당을 사용해주세요. 할당 길이는 상황에 맞게 변경해주세요.
     int* answer = (int*)malloc(sizeof(int)*strlist_len);
-    strlist
+    int count = 0;
+    for (size_t i = 0; i < strlist_len; i++)
+    {
+        strlist[i];
+        while (0 != *strlist[count])
+        {
+            char A = *strlist[count];
+            count++;
+        }
+        
+    }
+
+    count++;
+    return count;
+
     return answer;
+}
+
+int* solution(const char* str[], size_t len) {
+    int c;
+    int* ans = (int*)malloc(len * sizeof(int));
+    for (c = 0; c < len; c++) {
+        ans[c] = strlen(str[c]);
+    }
+
+    return ans;
 }
 
 int main()
 {
-    
+    const char* arr[35] = {"We", "are", "the", "world!"};
+    *arr[0]; 
+    int* Result = solution(arr,5);
 }
 
